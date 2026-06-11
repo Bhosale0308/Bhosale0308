@@ -1,16 +1,63 @@
-## Hi there 👋
+# 👋 Hi, I'm Sneha Bhosale
 
-<!--
-**Bhosale0308/Bhosale0308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Python Full Stack Developer
 
-Here are some ideas to get you started:
+🎓 BCA Graduate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Pune, India
+
+🌱 Currently Learning:
+
+* Python Full Stack Development
+* React.js
+* JavaScript
+* Data Structures & Algorithms
+
+---
+
+## 🚀 Technical Skills
+
+### Programming Languages
+
+* Python
+* JavaScript
+* SQL
+
+### Frontend
+
+* HTML5
+* CSS3
+* React.js
+
+### Backend
+
+* Python
+* Flask
+
+### Database
+
+* MySQL
+
+### Tools
+
+* Git
+* GitHub
+* VS Code
+
+---
+
+## 🎯 Career Goal
+
+To start my career as a Software Developer and continuously improve my skills in Full Stack Development.
+
+---
+
+## 📫 Contact
+
+📧 Email: [bhosalesneha382005@gmail.com](mailto:bhosalesneha382005@gmail.com)
+
+🐙 GitHub: github.com/Bhosale0308
+
+---
+
+⭐ Thanks for visiting my profile!
