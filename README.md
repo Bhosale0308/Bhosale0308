@@ -42,6 +42,26 @@
 
 ## 📂 Featured Project
 
+
+## 🤖 AI Digital Twin Engine
+
+An AI-powered digital twin simulation project designed to model, monitor, and analyze real-world systems using intelligent data processing.
+
+### Features
+
+* Real-time data simulation
+* Digital twin modeling
+* Data analysis and monitoring
+* Intelligent decision support
+
+### Technologies
+
+* Python
+* AI/ML Concepts
+* Data Processing
+* Simulation Techniques
+
+
 ### RecruitIQ – Candidate Intelligence System
 
 * Admin Login
